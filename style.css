@@ -67,6 +67,9 @@ nav .navbar .menu li{
 }
 .navbar .menu a:hover{
   color: #4070f4;
+cursor: pointer;
+text-decoration: underline;
+
 }
 nav.sticky .menu a{
   color: #FFF;
@@ -164,8 +167,6 @@ nav.sticky .menu-btn{
   border-color: black;
   background-color: #fff;
   color: black;
-  text-decoration: underline;
-  color: #000000;
 }
 section{
   padding-top: 40px;
